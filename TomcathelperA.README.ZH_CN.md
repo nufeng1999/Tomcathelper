@@ -6,4 +6,4 @@
 用法：
 TomcathelperA.bat tomcatservicename tomcatfolder logbackupfolder
 
-![Alt text](TomcathelperA folwchart.jpg "流程图")
+![](TomcathelperA folwchart.jpg "流程图")
