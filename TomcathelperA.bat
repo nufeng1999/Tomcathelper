@@ -1,7 +1,7 @@
 @echo ***************************************************************************
 @echo * regular backup tomcat logs and restart tomcat
 @echo * Ver:20170604
-@echo * Copyright (c) 2017 
+@echo * Copyright (c) 2017 nufeng74
 @echo ***************************************************************************
 
 if not exist "%2\logs" goto foldererr

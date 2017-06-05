@@ -1,0 +1,13 @@
+digraph  flowchart{
+    
+    node [fontname="simsun"];
+    A [label="创建备份日志目录"]
+    B [label="停止 Tomcat 服务"]
+    C [label="转移日志到备份目录"]
+    D [label="启动 Tomcat 服务"]
+    E [label="退出程序"]
+    A->B
+    B->C
+    C->D
+    D->E
+}
